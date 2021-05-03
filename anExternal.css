@@ -1,0 +1,18 @@
+body {
+	background-color: #66c075;
+}
+
+h1 {
+	color: rgb(255, 0, 191);
+	font-family: 'Helvetica';
+}
+
+p  {
+	color: rgb(238, 83, 22);
+}
+
+a{}
+
+a:hover {
+	color: orange;
+}
